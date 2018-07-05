@@ -2,8 +2,9 @@
 target/
 
 # IDEA #
-.idea/
+.idea/workspace.xml
 *.iml
+out/
 
 # Eclipse #
 .settings/
